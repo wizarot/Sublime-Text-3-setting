@@ -8,7 +8,7 @@
 1. 首先安装软件
 2. 通常情况下在这个位置
 ```
-cd ~/Library/Application Support/Sublime Text 3
+cd ~/Library/Application\ Support/Sublime\ Text\ 3
 ```
 3. 如果没有,那么就按照这个方法找找试试: [找到备份目录](https://www.jianshu.com/p/2c70c0100711)
 
